@@ -30,3 +30,6 @@ L'outils, va télécharger de manière asynchrone, ce qui signifie qu'il téléc
 - Fonctionnement en mode synchrone
 - Choix du mode synchrone ou asynchrone + choix du nombre de thread en mode synchrone
 - Interface graphique
+
+
+N'hésitez pas à me faire savoir vos retours sur l'outils afin d'y apporter des améliorations :)
