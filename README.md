@@ -3,6 +3,10 @@ YDC - Youtube Download Converter
 
 YDC est un outils permettant de télécharger vos playlists et vidéos Youtube et vous permet également de convertir en mp3 celles-ci.
 
+youtube.py --> Version ligne de commande
+youtube_v2.py --> Version Interface Graphique
+
+
 Étape 1 : Python
 Vous devez avoir Python sur votre ordinateur, la dernière version de préférence.
 Ensuite lancer le script Python, il vous indiquera quelles package installer en plus.
